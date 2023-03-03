@@ -1,0 +1,37 @@
+body{
+    box-sizing: content-box;
+    font-family: Arial, Helvetica, sans-serif;
+}
+h1{
+    text-align: center;
+    font-size: 80px;
+    margin-top: 0%;
+}  
+  h3{
+    text-align: center;
+    font-size: 22px;
+  }
+  
+  .responsive{
+    max-width: 100%;
+    height: auto; 
+    margin-left: auto; 
+    margin-right: auto; 
+    display: block;
+  }
+  p{
+    text-align: center;
+    font-family: 'Varela Round', sans-serif;
+    font-size: 18px;
+    border-radius: 10px;
+    padding: 5px;
+    margin: 10px 200px 10px 200px;   } 
+  ul {
+    text-align: left;
+    margin-left: 200px;
+    margin-right: 180px;
+    font-family: 'Varela Round', sans-serif;
+    font-size: 18px; 
+    color:rgb(19, 14, 14);
+   } 
+  
